@@ -20,12 +20,12 @@ return sentence;
 
 
 function iLoveTheBeatles(num) {
-  var array = []
+  var empty = []
   do {
-    array.push('I love the Beatles!')
+    empty.push('I love the Beatles!')
     num++;
   }
   while (num < 15)
   
-  return array
+  return empty
 }
