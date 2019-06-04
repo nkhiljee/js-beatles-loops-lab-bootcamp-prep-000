@@ -20,7 +20,9 @@ return sentence;
 
 
 function iLoveTheBeatles(num) {
-  var empty = []
-  do
+  var array = []
+  do {
+    array.push('I love the Beatles!')
+  }
   
 }
